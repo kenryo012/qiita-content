@@ -1,6 +1,6 @@
 <!--
 title:   AWS Hands-on for Beginners Amazon EC2 Auto Scaling スケーリング基礎編：学習メモ
-tags:    AWS,EC2,Auto Scaling,ハンズオン
+tags:    AWS,EC2,AutoScaling,ハンズオン
 id:      
 private: false
 -->
