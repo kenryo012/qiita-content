@@ -1,9 +1,10 @@
 <!--
 title:   AWS Hands-on for Beginners　Amazon CloudFrontおよびAWS WAFを用いて エッジサービスの活用方法を学ぼう：学習メモ
-tags:    AWS,CloudFront,AWSWAF,ハンズオン
-id:      
+tags:    AWS,AWSWAF,CloudFront,ハンズオン
+id:      c473992cc3c36a3082d0
 private: false
 -->
+
 ## はじめに
 
 AWSハンズオン for Beginnersシリーズとして提供されている「[Amazon CloudFrontおよびAWS WAFを用いて エッジサービスの活用方法を学ぼう](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-CF_WAF-2021-reg-event.html)」を実施した際のメモです。
