@@ -1,9 +1,10 @@
 <!--
 title:   AWS Hands-on for Beginners　スケーラブルウェブサイト構築編：学習メモ
-tags:    AWS,VPC,EC2,ELB,ハンズオン
-id:      
+tags:    AWS,EC2,elb,vpc,ハンズオン
+id:      73d53446d0c9e79e5937
 private: false
 -->
+
 ## はじめに
 
 AWSハンズオン for Beginnersシリーズとして提供されている「[AWS Hands-on for Beginnersスケーラブルウェブサイト構築編](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Scalable-2022-reg-event.html?trk=aws_event_page)」を実施した際のメモです。
