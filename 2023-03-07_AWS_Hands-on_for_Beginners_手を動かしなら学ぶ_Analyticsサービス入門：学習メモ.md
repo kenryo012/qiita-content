@@ -1,7 +1,7 @@
 <!--
 title:   AWS Hands-on for Beginners　手を動かしなら学ぶ Analytics サービス入門：学習メモ
 tags:    AWS,Redshift,QuickSight,ハンズオン
-id:      
+id:      ae7ecee4c53b85314560
 private: false
 -->
 

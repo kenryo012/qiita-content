@@ -1,7 +1,7 @@
 <!--
 title:   AWS Hands-on for Beginners　Amazon Elastic Container Service 入門 コンテナイメージを作って動かしてみよう：学習メモ
 tags:    AWS,ECS,コンテナ,ECR,ハンズオン
-id:      
+id:      cdb8dc06f480f3dc0b57
 private: false
 -->
 
