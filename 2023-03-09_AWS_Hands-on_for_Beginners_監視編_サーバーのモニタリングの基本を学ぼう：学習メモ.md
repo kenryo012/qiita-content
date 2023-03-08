@@ -1,7 +1,7 @@
 <!--
 title:   AWS Hands-on for Beginners 監視編 サーバーのモニタリングの基本を学ぼう：学習メモ
 tags:    AWS,CloudWatch,EC2,ALB,ハンズオン
-id:      
+id:      e0e46674496a28d5f71a
 private: false
 -->
 
