@@ -1,6 +1,7 @@
 <!--
 title:   AWS Hands-on for Beginners AWS Systems Managerを使ったサーバ管理はじめの一歩編：学習メモ
 tags:    AWS,SystemsManager,ハンズオン
+id:      5bbbd5c5971f5ebc4e05
 private: false
 -->
 
